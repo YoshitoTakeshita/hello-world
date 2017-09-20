@@ -2,5 +2,5 @@
 マンガでわかるGit 7・8話実践用
 
 # Links
-[Web連載：マンガでわかるGit](https://codeiq.jp/magazine/category/git-ai/)
-[Twitter @webdesignManga](https://twitter.com/webdesignManga)
+- [Web連載：マンガでわかるGit](https://codeiq.jp/magazine/category/git-ai/)
+- [Twitter @webdesignManga](https://twitter.com/webdesignManga)
